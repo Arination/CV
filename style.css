@@ -15,3 +15,15 @@ body {
 h1, h3 {
     color: #EC7272;
 }
+
+.entry{
+    font-family: 'Franklin Gothic Medium';
+}
+
+#lead{
+    font-family: 'Trebuchet MS';
+}
+
+#bullets{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
